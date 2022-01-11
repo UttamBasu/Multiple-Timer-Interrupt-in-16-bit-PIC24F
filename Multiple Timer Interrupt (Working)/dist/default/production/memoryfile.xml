@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Multiple_Timer_Interrupt.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>54</used>
+      <free>32714</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>527616</length>
+      <used>3408</used>
+      <free>524208</free>
+    </memory>
+  </executable>
+</project>
